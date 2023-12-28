@@ -2,7 +2,7 @@ name: End to End tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [ cd/e2e ]
   pull_request:
     branches: [ main ]
 
